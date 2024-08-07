@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.76f2048e.css",
+    "main.js": "./static/js/main.d2a0d79e.js",
+    "static/media/fern.jpg": "./static/media/fern.b1056b008c3c516f54b6.jpg",
+    "index.html": "./index.html",
+    "main.76f2048e.css.map": "./static/css/main.76f2048e.css.map",
+    "main.d2a0d79e.js.map": "./static/js/main.d2a0d79e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76f2048e.css",
+    "static/js/main.d2a0d79e.js"
+  ]
+}
